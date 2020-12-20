@@ -1,0 +1,46 @@
+.Mid{
+    text-align:center;
+    font-family: 'Open Sans', sans-serif;
+}
+.par{
+    text-align: center;
+    font-family: Roboto;
+}
+.par2{
+    text-align: center;
+    font-family: Roboto;
+    text-size-adjust: 50px;
+}
+#Por{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.item{
+    display: inline-block;
+    padding-left: 6%;
+    font-family: 'Open Sans', sans-serif;
+}
+.image:hover{
+    height: 250px;
+}
+.image{
+    transition: height 2s;
+}
+.container{
+    background-color:aliceblue;
+}
+.item2{
+    display: inline-block;
+    padding-left: 7%;
+    font-family: 'Open Sans', sans-serif;
+}
+.container2{
+    background-color:antiquewhite;
+}
+.image2:hover{
+    height: 250px;
+}
+.image2{
+    transition: height 2s;
+}
