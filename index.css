@@ -1,3 +1,4 @@
+@media screen and (min-width: 1200px){
 .Mid{
     text-align:center;
     font-family: 'Open Sans', sans-serif;
@@ -15,8 +16,12 @@
     text-align: center;
     font-family: 'Open Sans', sans-serif;
 }
-
 .item{
+    display: inline-block;
+    padding-left: 6%;
+    font-family: 'Open Sans', sans-serif;
+}
+.item5{
     display: inline-block;
     padding-left: 6%;
     font-family: 'Open Sans', sans-serif;
@@ -25,7 +30,7 @@
     height: 250px;
 }
 .image{
-    transition: height 2s;
+    transition: height 1s;
 }
 .container{
     background-color:aliceblue;
@@ -43,4 +48,79 @@
 }
 .image2{
     transition: height 2s;
+}
+.item3{
+    display: inline-block;
+}
+.item4{
+    padding-left: 15%;
+    display: inline-block;
+}
+.right{
+    font-family: 'Open Sans', sans-serif;
+    padding-left:20%;
+}
+.lol{
+    display: inline-flex;
+}
+.container3{
+    background-color:azure;
+}
+}
+@media screen and (max-width: 1200px){
+    .Mid{
+        text-align:center;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .par{
+        text-align: center;
+        font-family: Roboto;
+    }
+    .par2{
+        text-align: center;
+        font-family: Roboto;
+        text-size-adjust: 50px;
+    }
+    #Por{
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .item{
+        display: inline-block;
+        padding-left: 33%;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .item5{
+        display: inline-block;
+        padding-left: 30.5%;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .container{
+        background-color:aliceblue;
+    }
+    .item2{
+        display: inline-block;
+        padding-left: 40%;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .container2{
+        background-color:antiquewhite;
+    }
+    .item3{
+        display: inline-block;
+    }
+    .container3{
+        background-color:azure;
+    }
+    .item4{
+        padding-left: 7%;
+        display: inline-block;
+    }
+    .right{
+        font-family: 'Open Sans', sans-serif;
+        padding-left:10%;
+    }
+    .lol{
+        display: inline-flex;
+    }
 }
