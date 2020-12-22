@@ -26,22 +26,13 @@
         padding-left: 30.5%;
         font-family: 'Open Sans', sans-serif;
     }
-    .container{
-        background-color:antiquewhite;
-    }
     .item2{
         display: inline-block;
         padding-left: 40%;
         font-family: 'Open Sans', sans-serif;
     }
-    .container2{
-        background-color:antiquewhite;
-    }
     .item3{
         display: inline-block;
-    }
-    .container3{
-        background-color:antiquewhite;
     }
     .item4{
         padding-left: 7%;
