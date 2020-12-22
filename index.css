@@ -166,12 +166,12 @@
         }
         .item{
             display: inline-block;
-            padding-left: 4%;
+            padding-left: 12%;
             font-family: 'Open Sans', sans-serif;
         }
         .item5{
             display: inline-block;
-            padding-left: 6%;
+            padding-left: 12%;
             font-family: 'Open Sans', sans-serif;
         }
         .image:hover{
@@ -185,7 +185,7 @@
         }
         .item2{
             display: inline-block;
-            padding-left: 30%;
+            padding-left: 12%;
             font-family: 'Open Sans', sans-serif;
         }
         .container2:hover{
@@ -199,10 +199,10 @@
         }
         .item3{
             display: inline-block;
-            padding-left: 30%;
+            padding-left: 12%;
         }
         .item4{
-            padding-left: 30%;
+            padding-left: 28%;
             display: inline-block;
         }
         .right{
