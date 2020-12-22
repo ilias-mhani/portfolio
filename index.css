@@ -303,7 +303,7 @@
                 border-style: solid;
             }
             }
-            @media screen and (min-width: 1800px){
+            @media screen and (min-width: 1300px){
                 body{
                     padding:0;
                     margin:0;
